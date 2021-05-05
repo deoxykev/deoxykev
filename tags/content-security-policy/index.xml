@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>content security policy on Kevin Pham</title>
+    <link>https://deoxy.net/tags/content-security-policy/</link>
+    <description>Recent content in content security policy on Kevin Pham</description>
+    <image>
+      <url>https://deoxy.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://deoxy.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://deoxy.net/tags/content-security-policy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementing Content Security Policies, The Easy Way.</title>
+      <link>https://deoxy.net/csp/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://deoxy.net/csp/</guid>
+      <description>CSP&amp;#39;s are a pain to write for legacy sites, but it doesn&amp;#39;t have to be.</description>
+    </item>
+    
+    <item>
+      <title>Implementing Content Security Policies, The Easy Way.</title>
+      <link>https://deoxy.net/posts/csp/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://deoxy.net/posts/csp/</guid>
+      <description>CSP&amp;#39;s are a pain to write for legacy sites, but it doesn&amp;#39;t have to be.</description>
+    </item>
+    
+  </channel>
+</rss>
